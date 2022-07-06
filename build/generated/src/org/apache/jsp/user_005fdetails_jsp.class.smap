@@ -1,0 +1,16 @@
+SMAP
+user_005fdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 user_details.jsp
+user_details.jsp
+*L
+5,110:48
+115,6:159
+120,2:165
+122,7:167,3
+129,2:188
+130,7:190
+136,29:197
+*E
